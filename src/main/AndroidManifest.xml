@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cn.org.bjca.fingerbio">
+
+    <application>
+        <activity
+            android:name=".ui.FingerZAZ0C0Activity"
+            android:screenOrientation="landscape"
+            android:theme="@style/FingerprintStyle" />
+
+    </application>
+</manifest>
